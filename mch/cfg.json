@@ -1,0 +1,11 @@
+{
+  "graphics": {
+    "window": {
+      "height": 900,
+      "mode": 2,
+      "title": "among us (in real life)",
+      "width": 1920
+    }
+  },
+  "server": false
+}
